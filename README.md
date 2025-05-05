@@ -9,4 +9,4 @@ Dane pochodzą z Kaggle.
 Kod.py - wszystkie kody potrzebne do wygenerowania wykresów oraz obliczenia potrzebnych miar.  
 gold_price.csv - plik zawierjący ceny złota.  
 silver_price.csv - plik zawierjący ceny srebra.  
-Raport.pdf - oficjalna wersja raportu napisana w LaTeX, zawierająca kompleksową analizę.
+Raport.pdf - oficjalna wersja raportu napisana w LaTeX.
