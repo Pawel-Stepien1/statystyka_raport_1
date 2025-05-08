@@ -2,7 +2,7 @@
 ## statystyka raport 1
 
 ## Cel raportu
-Celem raportu jest dokonanie analizy statystycznej cen złota i srebra w okresie od 04.01.2016r. do 28.12.2018r.  
+Celem tego raportu jest analiza i porównanie cen złota i srebra w okresie od 04.01.2016r. do 28.12.2018r. oraz zbadanie ich wzajemnych relacji. 
 
 ## Pliki
 Kod.py - wszystkie kody potrzebne do wygenerowania wykresów oraz obliczenia potrzebnych miar.  
